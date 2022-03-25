@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8562755b-2979-4027-bb25-e23348df3084" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/script.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/burgers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/burgers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/chips.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/chips.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/falafel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/falafel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/food-table.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/food-table.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/food_stall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/food_stall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/assets/img/grill.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/assets/img/grill.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 23/tickets.html" beforeDir="false" afterPath="$PROJECT_DIR$/project 23/tickets.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26qem9kESt70OhuaW6Wb9HFj9NT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8562755b-2979-4027-bb25-e23348df3084" name="Changes" comment="" />
+      <created>1648155702094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648155702094</updated>
+      <workItem from="1648155704578" duration="8000" />
+      <workItem from="1648156076720" duration="4282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
